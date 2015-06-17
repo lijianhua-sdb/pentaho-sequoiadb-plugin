@@ -7,7 +7,7 @@ Building
 --------
 The Pentaho SequoiaDB Plugin is built with Apache Ant and uses Apache Ivy for dependency management. All you'll need to get started is Ant 1.7.0 or newer to build the project. The build scripts will download Ivy if you do not already have it installed.
 
-    $ git clone git://github.com/pentaho/pentaho-sequoiadb-plugin.git
+    $ git clone git://github.com/lijianhua-sdb/pentaho-sequoiadb-plugin.git
     $ cd pentaho-sequoiadb-plugin
     $ ant
 
